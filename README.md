@@ -28,3 +28,43 @@ A modern, responsive personal portfolio built with **Next.js**, **TypeScript**, 
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
+
+# Install first
+npm install
+
+# Run the code to view
+npm run dev
+
+
+  Folder Structure  
+src/
+├── app/
+│ ├── page.tsx # Main homepage
+│ ├── layout.tsx # Root layout component
+│ └── globals.css # Global styles
+├── data/ # Static data like skills, projects, etc.
+
+
+
+## 📜 Available Scripts
+
+| Command        | Description                          |
+|----------------|--------------------------------------|
+| `npm run dev`  | Run in development with nodemon      |
+| `npm run build`| Compile TypeScript to `dist/`        |
+| `npm start`    | Start production server              |
+
+---
+
+
+📄 License
+This project is open source and available under the MIT License.
+
+
+🧑‍💻 Author
+Pema Wangmo
+
+Email: momapwk24@gmail.com
+
+GitHub: @momapwk
+
